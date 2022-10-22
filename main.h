@@ -20,7 +20,6 @@ struct format
 /**
  * format_t - struct nickname
  */
-
 typedef struct format format_t;
 
 /* functions */
